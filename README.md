@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+![code](https://github.com/fredoananda/List-name/blob/main/Screenshot%202023-07-13%20at%2011.40.59.png)
 ## Getting Started
 
 First, run the development server:
@@ -11,15 +11,16 @@ yarn dev
 # or
 pnpm dev
 ```
-
+![code](https://github.com/fredoananda/List-name/edit/main/README.md#:~:text=Screenshot%202023-,%2D,-07%2D13%20at%2011.41.50)
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
+![code](https://github.com/fredoananda/List-name/edit/main/README.md#:~:text=Screenshot%202023-,%2D,-07%2D13%20at%2011.41.50)
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
+![code](https://github.com/fredoananda/List-name/edit/main/README.md#:~:text=Screenshot%202023-,%2D,-07%2D13%20at%2011.41.50)
 ## Learn More
-
+![code](https://github.com/fredoananda/List-name/edit/main/README.md#:~:text=Screenshot%202023-,%2D,-07%2D13%20at%2011.41.50)
+![code](https://github.com/fredoananda/List-name/edit/main/README.md#:~:text=Screenshot%202023-,%2D,-07%2D13%20at%2011.41.50)
 To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
