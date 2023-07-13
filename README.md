@@ -11,7 +11,7 @@ yarn dev
 # or
 pnpm dev
 ```
-![code](https://github.com/fredoananda/List-name/edit/main/README.md#:~:text=Screenshot%202023-,%2D,-07%2D13%20at%2011.41.50)
+![code](https://github.com/fredoananda/List-name/blob/main/Screenshot%202023-07-13%20at%2011.41.50.png)
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
