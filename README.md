@@ -20,7 +20,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ![code](https://github.com/fredoananda/List-name/blob/main/Screenshot%202023-07-13%20at%2011.43.51.png)
 ## Learn More
 ![code](https://github.com/fredoananda/List-name/blob/main/Screenshot%202023-07-13%20at%2011.43.51.png)
-![code](https://github.com/fredoananda/List-name/edit/main/README.md#:~:text=Screenshot%202023-,%2D,-07%2D13%20at%2011.41.50)
+![code](https://github.com/fredoananda/List-name/blob/main/Screenshot%202023-07-13%20at%2011.44.00.png)
 To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
